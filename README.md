@@ -14,7 +14,7 @@
 
 ```bash
 # 下载
-git clone https://github.com/lzz765626866-bot/wechat-multi.git
+git clone https://github.com/mylg17/wechat-multi.git
 cd wechat-multi
 
 # 授权执行
